@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eydere
 - 👀 I’m interested in Salesforce
-- 🌱 I’m currently learning Salesforce developer part
+- 🌱 I’m currently learning/working Salesforce developer part
 - 💞️ I’m looking to collaborate on salesforce
 - 📫 How to reach me https://www.linkedin.com/in/eray-d-6bb29b1aa 
 
